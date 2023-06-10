@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 velog's link: https://velog.io/@hyuntall
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntall&show_icons=true&theme=cobalt) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntall&layout=compact&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuntall)](https://solved.ac/hyuntall/)
