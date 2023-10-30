@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda%20AWS&logoColor=white"/></a> &nbsp </p>
 
 <h3 align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntall&layout=compact&theme=cobalt"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntall&layout=compact&theme=cobalt"/> -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuntall"/>
 </h3>
