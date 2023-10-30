@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/hyuntall/hyuntall/assets/71054445/22603027-0b56-4ef4-8c6d-75117d3c730c" width="300"/>
   </a>
   <br/>
-  <b>velog's link</b>
+  <b>🤔 velog's link 🤔</b>
 </h3>
 
 
